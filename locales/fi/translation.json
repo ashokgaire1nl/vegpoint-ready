@@ -1,0 +1,185 @@
+{
+  "Home": {
+    "delicious": "Herkullinen",
+    "nepaliCuisine": "Vegaani Ja kasvissyöjä",
+    "onTheBay": "Ruokaa",
+    "welcomeText": "Tervetuloa Veg Pointiin"
+  },
+  "ExploreMenu": {
+    "Text": "Tervetuloa kaupungin ainoaan kasvis-ja vegaaniravintolaan. Ylpeyden aiheitamme ovat ainutlaatuinen asiakaspalvelu, tuoreet raaka-aineet sekä hyvä ruoka jonka ammattitaitoiset kokkimme valmistamat.  Ruokalistoistamme löydätte merkinnät 'vegaaninen', 'gluteeniton' sekä 'laktoositon' jotta asiakkaan olisi helpompi tunnistaa itselleen sopivat vaihtoehdot ja maut.",
+    "freshAndLocal": "Tuore ja paikallinen",
+    "exploreOurMenu": "tutustu valikkoon",
+    "food": "ruokaa",
+    "menu": "valikossa"
+  },
+  "Menu": {
+    "Alacarte'": "Alacarte",
+    "Lunch": "Lounas",
+    "Soup": {
+      "1": "Paksu ja kermainen tomaattikeitto.",
+      "4": "Paksu ja kermainen sienikeitto. Maustettu ripauksella valkosipulia, sipulia, pippuria ja kookoskermaa.",
+      "2": "Mausteinen ja sitruunainen keitto bambuversoviipaleilla, kasviksilla ja maissilla.",
+      "3": "Mausteinen keitto soijamarinoiduista kasviksista."
+    },
+    "Appetizer": {
+      "1": "Kikhernejauhoilla paneroitua sipulia, kukkakaalia ja perunaa uppopaistettuna.",
+      "2": "Uppopaistettua ja leivittyjä tuore juustotikkuja.",
+      "3": "Uppopaistettuja, rapeita perunalla ja herneillä täytetty friteerattu kasvispasteija (2 kpl.). Tarjoillaan tomaattichutneyn kanssa.",
+      "4": "Uppopaistettua tuorejuustoa ja paprikaa mausteisessa soijakastike-tomaatti-inkivääri-valkosipulikastikkeessa.",
+      "5": "Paistettuja tuoreita sieniä ja paprikaa soijakastikke-tomaatti-inkivääri-valkosipulikastike.",
+      "6": "Paistettua tuoretta tofua ja paprikaa mausteisessa soijakastike-tomaatti-inkivääri-valkosipulikastike.",
+      "7": "Uppopaistettua perunaa, paneerjuustoa ja pinaattia.",
+      "8": "Uppopaistettuja perunapalloja, täyttettynä linsseillä.",
+      "9": "Uppopaistettuja peruna-juustopyöryköitä.",
+      "10": "Sitruunaisia ja mausteisia pähkinöitä, kurkkua, sipulia ja tomaattia.",
+      "11": "Friteerattuja linssi pyöryköitä jogurtti-minttukastikkeella ja tamarind-kastikkeella."
+    },
+    "Tandoori": {
+      "1": "Jogurttimarinoitua, tandooriuunissa paistettua paneerjuustoa paprikalla, sipulilla ja tomaatilla.",
+      "2": "Mausteista, marinoitua, tandooriuunissa grillattua tofua, paprikan, sipulin ja tomaatin kera.",
+      "3": "Jogurttimarinoitua, tandooriuunissa grillattua kukkakaalia, paneerjuustoa, kesäkurpitsaa, paprikaa ja sipulia."
+    },
+    "ChefSpecial": {
+      "1": "Maustettua munakoisoa sipulilla, perunalla ja juustolla täytettynä, inkiväärillä ja valkosipulilla maustettuna. Tarjoillaan wokattujen vihannesten sekä erityisen kastikkeen kanssa.",
+      "2": "Maustettua paprikaa sipulilla, perunalla, tomaattilla ja herneellä täytettynä, inkiväärillä ja valkosipulilla maustettuna. Tarjoillaan wokattujen vihannesten sekä erityisen kastikkeen kanssa.",
+      "3": "Mausteista basmatiriisiä tomaatin, sipulin ja kauden kasvisten kanssa. Jogurttia ja sahramia sekä raita-kastike.",
+      "4": "Salaatti kulho, joka on täytetty vihreällä salaatilla ja vihanneksilla sekä oliiviöljyllä.",
+      "5": "Papujen ituja, lehtisalaattia, pinaattia, porkkanaa, tomaattia, kurkkua, parsakaalia, oliiveja, herneitä, kikherneitä, seesamin siemeniä, maapähkinää, avokadoa ja juustokuutioita",
+      "6": "Vihreää salaattia, vihanneksia, hedelmiä, papuja, juustoa, siemeniä sinaappi-oliiviöljyllä"
+    },
+    "Main": {
+      "1": "Paneerjuustoa ja herneitä tomaatti-sipulikastikkeessa. Inkivääriä, valkosipulia ja korianteria.",
+      "2": "Tuoretta pinaattia ja paneerjuustoa kermaisessa currykastikkeessa.",
+      "3": "Paneerjuustoa kermaisessa tomaatti-cashewpähkinäkastikkeessa.",
+      "4": "Mausteiset soijapyörykät tomaatti-sipuli-kastikkeessa.",
+      "5": "Paneerjuustoa, paprikaa ja sipulia mausteisessa ja kermaisessa tomaatti-chili-inkivääri-valkosipuli-currykastikkeessa.",
+      "6": "Friteerattua tofua tomaatti-sipulikastikkeessa. Lisukkeena inkiväärinen valkosipulikastike.",
+      "7": "Tofua ja pinaattia tomaattisessa inkivääri-valkosipulikastikkeessa.",
+      "8": "Paistettua mausteista perunaa kuminansiemenissä.",
+      "9": "Paneerjuustoa kermaisessa tomaatti-sipuli-kookos-cashewkastikkeessa.",
+      "10": "Kasviksia tomaatti-cashew-kookoskermakastikkeessa.",
+      "11": "Friteerattua kukkakaalia, perunaa ja tomaattia. Tomaatti-sipulikastike, inkivääriä ja valkosipulia.",
+      "12": "Perunaa ja kikherneitä tomaatti-sipulikastikkeessa valkosipulilla maustettuna.",
+      "13": "Baby okraa keskitulisessa tomaatti-sipulikastikkeessa. Mausteina inkivääri ja valkosipuli.",
+      "14": " Uppopaistettuja kasvispyöryköitä pinaatti-currykastikkeessa.",
+      "15": "Perunamuusia, paneerjuustoa ja cashewpähkinäpyöryköitä samettisessa cashew-tomaattikastikkeessa, maustettuna sahramilla.",
+      "16": "Haudutettuja mustia linssejä tomaattisessa voi-kermakastikkeessa.",
+      "17": "Haudutettu linssisekoitus kastikkeessa, jossa on sipulia, valkosipulia, inkivääriä, korianteria ja tomaattia."
+    },
+    "Snacks": {
+      "1": "Höyrystettyjä ja maustetettyjä vihanneksia ja tofu, sipuli, valkosipuli, inkivääriä ja soija.Tarjoillaan tomaatti-seesami-chutneyn kanssa.[valmistus kestää noin 25 minuuttia]. ",
+      "2": "Kasvismomo tomaatti-seesami-timur-inkivääri-valkosipulikastikkeen kera.",
+      "3": "Nuudeleita ja kasviksia tomaatti-soijakastikkeen kera. Tarjoillaan erityischutneyn kera.",
+      "4": "Uppopaistettu vehnäjauholeipä, kikherneiden ja perunacurryn kera."
+    },
+    "Rice": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "Breads": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "BeveragesCold": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    },
+    "BeveragesHot": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "Deserts": {
+      "1": "(Vanilja, suklaa, mango ja mansikka)",
+      "2": "(Mix of selected three icecreams)",
+      "3": "(Jäädyke, jossa pistaasia, mantelia, cashew-pähkinää, kevyesti maustettu kardemummalla.)"
+    },
+    "Kids": {
+      "1": "",
+      "info": "Kaikki annokset voidaan valmistaa lasten koossa."
+    },
+    "Monday": {
+      "1": "Perunaa ja valkokikherne sipuli-tomaatti-valkosipulikastikkeessa.",
+      "2": "Maustetut soija pyörykät sipuli-tomaatti kastikkeessa.",
+      "3": "Tuore pinaattia ja juustoa kermaisessa currykastikkeessa.",
+      "4": "Seka-vihanneksia tomaatti-sipuli- cashewpähkinä kastikkeessa",
+      "5": "Maustettua basmatiriisiä tomaatti, sipuli, kauden vihannekset, jogurtti, sahrami sekä mausteet raitan kera."
+    },
+    "Tuesday": {
+      "1": "Wokattua perunaa juustokuminalla sekä mausteilla.",
+
+      "2": "Paistettu tofu sipuli-tomaatti ja inkivääri-valkosipulikastikkeessa.",
+
+      "3": "Sekavihanneksia tomaatti-cashew-kookoskermakastikkeessa.",
+
+      "4": "Tuore juusto sipuli-tomaatti-cashew-kookospähkinä-kermakastikkeessa.",
+
+      "5": "Maustettua, seka-paprika sipuli-peruna-tomaatti-herne-inkivääri-valkosipulitäytteellä wokattujen kasvisten sekä erikoisen kastikkeen kera."
+    },
+    "Wednesday": {
+      "1": "Wokattua kukkakaalia, perunaa ja tomaattia sipuli-tomaatti-inkivääri-valkosipulikastikkeessa.",
+      "2": "Tofua ja pinaattia inkivääri-valkosipuli-tomaattikastikkeessa. ",
+
+      "3": "Tuore juustoa, paprika ja sipulia mausteisessa tomaatti-chili-inkivääri-valkosipuli-curry-kermakastikkeessa. ",
+
+      "4": "Sieniä ja herneitä sipuli-tomaatti-kermakastikkeessa.",
+
+      "5": "Höyrystettyjä ja maustettua vehnä kokkareita, täytteenä seka-vihanneksia, sipuli, soijaa, valkosipuli, inkivääriä. Tarjoillaan tomaatti-seesaminseiemen-timur-inkivääri-valkosipuli kastikkeen kera."
+    },
+    "Thursday": {
+      "1": "Peruna ja herneitä sipuli-tomaatti-inkivääri-valkosipuli-korianterikastikkeessa",
+
+      "2": "Wokattua tuore tofua, paprika mausteisessa tomaatti-inkivääri-valkosipuli-soijakastikkeessa.",
+
+      "3": "Tuorejuustoa tomaatti-voi-cashew-kermakastikkeessa. ",
+
+      "4": "Paistettua okraa ja  perunaa tomaatti-inkivääri-valkosipuli-masalakastikkeessa. ",
+
+      "5": "Haudutettua mustalinssia tomaatti-voi-kermakastikkeessa."
+    },
+    "Friday": {
+      "1": "Perunaa ja paprika sipuli-tomaatti-valkosipulikastikkeessa.",
+
+      "2": "Tofua ja pinaattia inkivääri-valkosipuli-tomaattikastikkeessa. ",
+
+      "3": "Seka-vihanneksia tomaatti-cashew-kookoskermakastikkeessa.",
+
+      "4": "Wokattua tuorejuustoa ja tomaattia inkivääri-valkosipuli-masalakastikkeessa.",
+
+      "5": "Kauden sekavihanneksia tofun kera erityisessä kastikkeessa. "
+    },
+    "LunchExtraInfo": "(Kaikki lounasruoat sisältävät Basmatiriisiä, naan leipää, salaattia ja raitaa)",
+    "AlacarteExtraInfo1": "V=Veganen",
+    "AlacarteExtraInfo2": " G= Gluteeniton ",
+    "AlacarteExtraInfo3": "L= Laktoositon"
+  },
+  "Footer": {
+    "contactInfo": "Yhteystiedot",
+    "restaurantHours": "Ravintolan aukioloajat",
+    "address": "Osoite: Antinkatu 23, 28100 Pori, Finland",
+    "booking": "Soita meille: +358 40 6117445",
+    "email": "sähköposti: info@vegpoint.fi",
+    "follow": "seuraa meitä:",
+    "lunch": "Lounas",
+    "lunchDayTime": "Maanantai - Perjantai: 11:00 – 15:00",
+    "alacarteDayTime1": "Maanantai - Perjantai: 15:00 - 20:00",
+    "alacarteDayTime2": "Lauantai - Sunnuntai: 12:00 - 20:00",
+    "home": "Etusivu",
+    "menu": "Valikko",
+    "reservation": "Varaus",
+    "gallery": "Galleria"
+  }
+}

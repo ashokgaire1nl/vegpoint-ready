@@ -1,0 +1,201 @@
+{
+  "Home": {
+    "delicious": "Delicious ",
+    "nepaliCuisine": "Vegan and Vegetarian",
+    "onTheBay": "Food",
+    "welcomeText": "Welcome to Veg Point"
+  },
+  "ExploreMenu": {
+    "Text": "Welcome to one and the only vegetarian & vegan restaurant in the town. We take pride in our exceptional service, great taste, and fresh and local fare prepared by our highly skilled chefs. We have also labelled 'Vegan', 'Vegetarian', 'Gluten Free' and ‘Lactose Free’ in our menu in order to help our customers identify their right choice and flavor.",
+    "freshAndLocal": "Fresh & Local",
+    "exploreOurMenu": "explore our menu",
+    "food": "Food",
+    "menu": "menu"
+  },
+  "Menu": {
+    "Alacarte'": "Alacarte",
+    "Lunch": "Lunch",
+    "Soup": {
+      "1": "Thick and creamy tomato soup.",
+      "4": "Thick creamy mushroom soup prepared with hint of garlic, onion, pepper and coconut cream.",
+      "2": "Spicy lemon flavoured soup with bamboo shoots, seasoned vegetables, and corn.",
+      "3": "Spicy soup with mix vegetables in soya sauce."
+    },
+    "Appetizer": {
+      "1": "Onion, cauliflower and potato coated with gram flour and deep fried.",
+      "2": "Deep-fried paneer sticks coated with corn flour and breadcrumbs.",
+      "3": "Deep fried crispy pastry stuffed with vegetables. Potatoes and green peas seasoned with spices (2 pcs). Served with tomato chutney.",
+      "4": "Fried fresh cottage cheese, capsicum in spicy soy sauce, tomato ginger garlic sauce.",
+      "5": "Fried fresh mushroom, capsicum in soy sauce, tomato- ginger- garlic sauce.",
+      "6": "Fried fresh tofu, capsicum in spicy soy sauce, tomato ginger garlic sauce. ",
+      "7": "Deep fried potato, paneer and spinach in cornflour and gram flour.",
+      "8": "Mashed potato stuffed lentils deep fried.",
+      "9": "Deep fried Potato and cheese balls with wheat flour and breadcrumbs.",
+      "10": "Lemon flavoured spicy peanut with chopped cucumber, onion, and tomato.",
+      "11": "Fried Lentil balls with yogurt, mint sauce and tamarind sauce."
+    },
+    "Tandoori": {
+      "1": "Yogurt marinated, tandoori-oven grilled home-made cottage cheese with paprika, onion and tomatoes.",
+      "2": "Spices marinated , tandoori-oven grilled tofu with paprika, onion and tomatoes. ",
+      "3": "Yogurt marinated, tandoori-oven grilled cauliflower, home-made cottage cheese, zucchini, paprika and onion. "
+    },
+    "ChefSpecial": {
+      "1": "Eggplant stuffed with onion, potato, cheese, ginger- garlic and spices. Served with stir-fried vegetables and special dip",
+      "2": "Mix Paprika stuffed with onion, potato, tomato, peas, ginger- garlic and spices, served with stir fried vegetables and special dip",
+      "3": "Spiced basmati rice with tomato, onion, seasoned vegetables, yogurt and saffron served with raita.",
+      "4": "Salad bowl filled with green salad and vegetables with olive oil dressing.",
+      "5": "Beans Sprouts, Lettuce, Spinach, carrot, tomato, cucumber, broccoli, olives, sweet corn, cheakpeas, sesame seed, peanut, avocado, tofu cube, cheese cube.",
+      "6": "Green salad, vegetables, fruits, beans, cheese and seeds with mustard and olive oil dressing."
+    },
+    "Main": {
+      "1": "Homemade cheese and peas in onion-tomato-ginger, garlic-coriander paste.",
+      "2": "Fresh spinach and cottage cheese with creamy curry sauce.",
+      "3": "Cottage cheese cooked in tomato-butter-cashew nut cream sauce.",
+      "4": "Soya balls cooked in onion-tomato sauce and ground spices.",
+      "5": "Fresh cheese capsicum and onion in spicy tomato, chilli and ginger- garlic curry cream sauce.",
+      "6": "Fried tofu cooked with onion-tomato sauce and ginger- garlic sauce.",
+      "7": "Tofu and spinach in ginger, garlic, tomato- sauce.",
+      "8": "Stir fried potato with cumin seeds and spices.",
+      "9": "Cottage cheese with onion, tomato, cashew nuts, coconut, and cream sauce.",
+      "10": "Mix vegetables in tomato-cashew- coconut cream sauce.",
+      "11": "Fried cauliflower, potato, and tomato cooked in onion-tomato sauce, ginger, and garlic.",
+      "12": "Potato and white chickpeas in onion-tomato sauce and garlic.",
+      "13": "Baby okra in medium spicy tomato- onion- ginger- garlic sauce.",
+      "14": " Deep fried vegetable balls cooked in spinach-curry sauce.",
+      "15": "Mashed potatoes, cottage cheese and cashew nut balls in smooth and mellow tomato- cashew sauce with butter cream and saffron.",
+      "16": "Stewed whole black lentil in tomato- butter and cream sauce.",
+      "17": "Stewed mixed lentils in onion, garlic, ginger, coriander, and tomatoes."
+    },
+    "Snacks": {
+      "1": "Wheat flour dumplings filled with finely chopped mix vegetables, onion, soya chunks, garlic, ginger, and spices and steamed to perfection. Served with specially prepared sesame & tomato dip and side salad. [Preparation takes 25 minutes].",
+      "2": "Vegetable momos in tomato -sesame seed- Timur, ginger and garlic sauce.",
+      "3": "Noodles stir fried with seasoned mix vegetables, tomato- soy sauce. Served with special chutney.",
+      "4": "Wheat flour deep fried bread served with chickpeas and potato curry."
+    },
+    "Rice": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "Breads": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": ""
+    },
+    "BeveragesCold": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": ""
+    },
+    "BeveragesHot": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "Deserts": {
+      "1": "(Vanilla, chocolate, mango and strawberry)",
+      "2": "(Mix of selected three ice creams)",
+      "3": "Condensed milk-parfait containing pistachios, almonds, and cashew nuts, mildly flavoured with cardamom."
+    },
+    "Kids": {
+      "1": "",
+      "info": "Any dishes can be made in child portion."
+    },
+    "Monday": {
+      "1": "Potato and white chickpeas in onion-tomato sauce and garlic.",
+      "2": "Soya balls cooked in onion-tomato sauce and ground spices.",
+      "3": "Fresh spinach and cottage cheese with creamy curry sauce.",
+      "4": "Mix vegetables cooked in tomato-onion and cashew nut sauce",
+      "5": "Spiced basmati rice with tomato, onion, seasoned vegetables, yogurt, spices and saffron served with raita."
+    },
+    "Tuesday": {
+      "1": "Stir fried potato with cumin seeds and spices.",
+
+      "2": "Fried tofu cooked with onion-tomato sauce and ginger- garlic sauce.",
+
+      "3": "Mix vegetables in tomato-cashew- coconut cream sauce.",
+
+      "4": "Cottage cheese with onion, tomato, cashew nuts, coconut, and cream sauce.",
+
+      "5": "Paprika stuffed with onion, potato, tomato, peas, ginger- garlic and spices, served with stir fried vegetables and special sauce."
+    },
+    "Wednesday": {
+      "1": "Fried cauliflower, potato and tomato cooked in onion-tomato sauce, ginger, and garlic.",
+      "2": "Tofu and spinach in ginger, garlic, tomato- sauce.",
+
+      "3": "Fresh cheese, capsicum and onion in spicy tomato, chilli, and ginger- garlic curry cream sauce.",
+
+      "4": "Mushroom and peas in onion- tomato creamy sauce.",
+
+      "5": "Wheat flour dumplings filled with finely chopped mix vegetables, onion, soya chunks, garlic, ginger, and spices and steamed to perfection, served in tomato -sesame seed- Timur, ginger and garlic sauce. "
+    },
+    "Thursday": {
+      "1": "Potato and peas in onion-tomato sauce, ginger, garlic, and coriander.",
+
+      "2": "Fried fresh tofu, capsicum in spicy soy tomato ginger garlic sauce.",
+
+      "3": "Cottage cheese cooked in tomato-butter-cashew cream sauce.",
+
+      "4": "Fried okra, potatoes, with tomato, ginger & garlic masala sauce.",
+
+      "5": "Stewed whole black lentil in tomato- butter and cream sauce."
+    },
+    "Friday": {
+      "1": "Potato and paprika in onion-tomato and garlic sauce.",
+
+      "2": "Tofu and spinach in ginger, garlic, tomato- sauce.",
+
+      "3": "Mix vegetables in tomato-cashew- coconut cream sauce.",
+
+      "4": "Fried cottage cheese and tomato with ginger garlic and masala sauce.",
+
+      "5": "Seasonal mix vegetables with tofu cooked in special sauce."
+    },
+    "AlacarteDishTitle": {
+      "Rice": {
+        "1": "riisi",
+        "2": "",
+        "3": "kumina riisi",
+        "4": "Paistettua valkosipuli riisi",
+        "5": "Sieniriisi"
+      },
+      "Breads": {
+        "1": "Naan leipä",
+        "2": "valkosipuli naan leipä",
+        "3": "Tandoor leipä",
+        "4": "Maustettua peruna leipä",
+        "5": ""
+      }
+    },
+    "LunchExtraInfo": "(All the lunch dishes include Basmati rice, Naan bread, Salad and Raita)",
+    "AlacarteExtraInfo1": "V= Vegan",
+    "AlacarteExtraInfo2": " G = Gluten Free ",
+    "AlacarteExtraInfo3": "L = Lactose Free"
+  },
+  "Footer": {
+    "contactInfo": "Contact Information",
+    "restaurantHours": "Restaurant Hours",
+    "address": "Address: Antinkatu 23, 28100 Pori, Finland",
+    "booking": " Call us on: +358 40 6117445",
+    "email": "Email: info@vegpoint.fi",
+    "follow": "Follow us on:",
+    "lunch": "Lunch:",
+    "lunchDayTime": "Monday- Friday: 11:00 – 15:00",
+    "alacarteDayTime1": "Monday- Friday: 15:00 - 20:00",
+    "alacarteDayTime2": "Saturday- Sunday: 12:00 - 20:00",
+    "home": "Home",
+    "menu": "Menu",
+    "reservation": "Reservation",
+    "gallery": "Gallery"
+  }
+}
